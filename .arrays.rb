@@ -21,3 +21,7 @@ puts floats.unshift(5.5, 6.5)
 puts booleans.shift
 
 
+# An index position describes
+# what specific situation an element is in within an array.
+#for example: "Halie" is in the 1st index position in my string array found above.
+# additionally, "Alec" would be index position 0.
