@@ -1,0 +1,3 @@
+- I feel pretty good, i just need to keep practing all the syntax.
+- nothing that would prevent me form moving on. 
+- none that i can think of at the moment.
