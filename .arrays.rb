@@ -25,3 +25,6 @@ puts booleans.shift
 # what specific situation an element is in within an array.
 #for example: "Halie" is in the 1st index position in my string array found above.
 # additionally, "Alec" would be index position 0.
+
+#the .reverse method simply reverses the order of elements in an array. 
+puts string.reverse
